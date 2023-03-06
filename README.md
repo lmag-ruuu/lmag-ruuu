@@ -9,7 +9,11 @@
 
 ## 𝗖𝘂𝗿𝗿𝗲𝗻𝘁𝗹𝘆 𝘄𝗼𝗿𝗸𝗶𝗻𝗴 𝗼𝗻
 
-- [Boilerplate React App with testing](https://github.com/lmag-ruuu/test-app) - 🪄 React App Boilerplate to do testing with cypress, vitest, using react and styled-components.
+- [Aluxion](https://github.com/aluxion) - As Frontend Developer since 2022 as [rmagdiel](https://github.com/rmagdiel)
+
+- [Boilerplate React App with testing](https://github.com/lmag-ruuu/test-app) - 🪄 Open source React App Boilerplate to do testing with cypress, vitest, using react and styled-components (pnpm as ci).
+
+
 
 ## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
