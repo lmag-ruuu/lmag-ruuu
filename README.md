@@ -9,7 +9,9 @@
 
 ## 𝗖𝘂𝗿𝗿𝗲𝗻𝘁𝗹𝘆 𝘄𝗼𝗿𝗸𝗶𝗻𝗴 𝗼𝗻
 
-- [Aluxion](https://github.com/aluxion) - As Frontend Developer since 2022 as [rmagdiel](https://github.com/rmagdiel)
+- [Aluxion](https://github.com/aluxion) - As Frontend Developer from January 2022 to April 2023 [rmagdiel](https://github.com/rmagdiel)
+
+- [BlindCreator](https://github.com/Blind-Creator-Inc) - As Frontend Developer since May 2023 as [rpmagdiel](https://github.com/rpmagdiel)
 
 - [Boilerplate React App with testing](https://github.com/lmag-ruuu/test-app) - 🪄 Open source React App Boilerplate to do testing with cypress, vitest, using react and styled-components (pnpm as ci).
 
