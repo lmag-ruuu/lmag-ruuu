@@ -8,13 +8,12 @@
 🖖 Typescript 𝗮𝗳𝗶𝗰𝗶𝗼𝗻𝗮𝗱𝗼 | 🔐 Advanced CSS 𝗟𝗲𝗮𝗿𝗻𝗲𝗿 | ☕️ 𝗖𝗼𝗳𝗳𝗲𝗲 𝗹𝗼𝘃𝗲𝗿 | 🌵 𝗔𝗴𝗮𝘃𝗲 𝗻𝗮𝗻𝗻𝘆 | 😺 3 Cats
 
 ## 𝗖𝘂𝗿𝗿𝗲𝗻𝘁𝗹𝘆 𝘄𝗼𝗿𝗸𝗶𝗻𝗴 𝗼𝗻
-
-- [Aluxion](https://github.com/aluxion) - As Frontend Developer from January 2022 to April 2023 [rmagdiel](https://github.com/rmagdiel)
-
 - [BlindCreator](https://github.com/Blind-Creator-Inc) - As Frontend Developer since May 2023 as [rpmagdiel](https://github.com/rpmagdiel)
 
 - [Boilerplate React App with testing](https://github.com/lmag-ruuu/test-app) - 🪄 Open source React App Boilerplate to do testing with cypress, vitest, using react and styled-components (pnpm as ci).
 
+## Past Jobs
+- [Aluxion](https://github.com/aluxion) - As Frontend Developer from January 2022 to April 2023 [rmagdiel](https://github.com/rmagdiel)
 
 
 ## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
