@@ -6,13 +6,15 @@
 🖖 Typescript | 🔐 Advanced CSS | ☕️ 𝗖𝗼𝗳𝗳𝗲𝗲 𝗹𝗼𝘃𝗲𝗿 | 😺 4 Cats
 
 ## Personal open source repo
-- [Boilerplate React App with testing](https://github.com/lmag-ruuu/test-app) - 🪄 Open source React App Boilerplate to do testing with cypress, vitest, using react and styled-components (pnpm as ci).
+- [LinkTic](https://linktic.com/) - As web developer
 
 ## Past Jobs
 - [BlindCreator](https://github.com/Blind-Creator-Inc) -  As Frontend Developer from May 2022 to May 2024 [rpmagdiel](https://github.com/rpmagdiel)
  ![image](https://github.com/lmag-ruuu/lmag-ruuu/assets/69068827/4c6785fa-8fb9-4396-bdf1-365e9032ece9)
 
 - [Aluxion](https://github.com/aluxion) - As Frontend Developer from January 2020 to April 2022 [rmagdiel](https://github.com/rmagdiel)
+
+- [Boilerplate React App with testing](https://github.com/lmag-ruuu/test-app) - 🪄 Open source React App Boilerplate to do testing with cypress, vitest, using react and styled-components (pnpm as ci).
 
 
 ## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
