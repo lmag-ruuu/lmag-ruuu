@@ -1,16 +1,16 @@
-# 𝗛𝗲𝗹𝗹𝗼! 𝗜'𝗺 Magdiel 👋
+# 𝗛𝗲𝗹𝗹𝗼! 𝗜'm Magdiel 👋
 
-## 🚀 **Full Stack Developer** con pasión por construir experiencias digitales increíbles.
+## 🚀 **Full Stack Developer** with a passion for building amazing digital experiences.
 
-Full Stack Developer, después de varios años trabajando en diferentes compañías. Mi experiencia abarca desde el **Front-end** con tecnologías como **React, Next.js, y TypeScript**, hasta el **Back-end** dominando **Java Spring, C#, .NET, Laravel y Deno**. También tengo experiencia con **Flutter** para desarrollo móvil.
+I'm a Full Stack Developer with several years of experience working at various companies. My expertise spans from **Front-end** with technologies like **React, Next.js, and TypeScript**, to **Back-end**, mastering **Java Spring, C#, .NET, Laravel, and Deno**. I also have experience with **Flutter** for mobile development.
 
-Siempre estoy aprendiendo y buscando la mejor solución para cada problema. Además, ¡soy un **amante del café** y tengo **4 gatos** que me inspiran cada día! ☕️😺
+I'm always learning and looking for the best solution for every problem. Plus, I'm a **coffee lover** and have **4 cats** that inspire me every day! ☕️😺
 
 ---
 
-## 💻 Mi Stack Tecnológico
+## 💻 My Tech Stack
 
-Aquí tienes un resumen de las herramientas y tecnologías con las que trabajo:
+Here's a summary of the tools and technologies I work with:
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -30,21 +30,21 @@ Aquí tienes un resumen de las herramientas y tecnologías con las que trabajo:
 
 ---
 
-## 💼 Experiencia Laboral
-* **Xirect Solutions** - Desarrollador Full Stack (2023 - Actualidad)
-    *  [Xirect](https://www.xirect.com/es/)
-* **LinkTic** - Desarrollador Full Stack (2023 - 2024)
-    * [LinkTic](https://linktic.com/)
-* **BlindCreator** - Desarrollador Frontend (Mayo 2022 - Mayo 2024)
-    * [BlindCreator](https://github.com/Blind-Creator-Inc)
-    * Mi perfil en BlindCreator: [rpmagdiel](https://github.com/rpmagdiel)
-    * ![image](https://github.com/lmag-ruuu/lmag-ruuu/assets/69068827/4c6785fa-8fb9-4396-bdf1-365e9032ece9)
-* **Aluxion** - Desarrollador Frontend (Enero 2020 - Abril 2022)
-    * [Aluxion](https://github.com/aluxion)
-    * Mi perfil en Aluxion: [rmagdiel](https://github.com/rmagdiel)
+## 💼 Work Experience
+* **Xirect Solutions** - Full Stack Developer (March 2025 - Present)
+    *  [Xirect](https://www.xirect.com/es/)
+* **LinkTic** - Full Stack Developer (April 2024 - March 2025)
+    * [LinkTic](https://linktic.com/)
+* **BlindCreator** - Frontend Developer (May 2022 - May 2024)
+    * [BlindCreator](https://github.com/Blind-Creator-Inc)
+    * My profile at BlindCreator: [rpmagdiel](https://github.com/rpmagdiel)
+    * ![image](https://github.com/lmag-ruuu/lmag-ruuu/assets/69068827/4c6785fa-8fb9-4396-bdf1-365e9032ece9)
+* **Aluxion** - Frontend Developer (January 2020 - April 2022)
+    * [Aluxion](https://github.com/aluxion)
+    * My profile at Aluxion: [rmagdiel](https://github.com/rmagdiel)
 
 ---
 
-## 🛠️ Proyectos Open Source
+## 🛠️ Open Source Projects
 
-* [**Boilerplate React App with Testing**](https://github.com/lmag-ruuu/test-app) - 🪄 Open source React App Boilerplate para testing con Cypress y Vitest, utilizando React y Styled-components (pnpm como CI).
+* [**Boilerplate React App with Testing**](https://github.com/lmag-ruuu/test-app) - 🪄 Open source React App Boilerplate for testing with Cypress and Vitest, using React and Styled-components (pnpm as CI).
