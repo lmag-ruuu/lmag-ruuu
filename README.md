@@ -32,16 +32,16 @@ Here's a summary of the tools and technologies I work with:
 
 ## 💼 Work Experience
 * **Xirect Solutions** - Full Stack Developer (March 2025 - Present)
-    *  [Xirect](https://www.xirect.com/es/)
+  * [Xirect](https://www.xirect.com/es/)
 * **LinkTic** - Full Stack Developer (April 2024 - March 2025)
-    * [LinkTic](https://linktic.com/)
+  * [LinkTic](https://linktic.com/)
 * **BlindCreator** - Frontend Developer (May 2022 - May 2024)
-    * [BlindCreator](https://github.com/Blind-Creator-Inc)
-    * My profile at BlindCreator: [rpmagdiel](https://github.com/rpmagdiel)
-    * ![image](https://github.com/lmag-ruuu/lmag-ruuu/assets/69068827/4c6785fa-8fb9-4396-bdf1-365e9032ece9)
+  * [BlindCreator](https://github.com/Blind-Creator-Inc)
+  * My profile at BlindCreator: [rpmagdiel](https://github.com/rpmagdiel)
+  * ![image](https://github.com/lmag-ruuu/lmag-ruuu/assets/69068827/4c6785fa-8fb9-4396-bdf1-365e9032ece9)
 * **Aluxion** - Frontend Developer (January 2020 - April 2022)
-    * [Aluxion](https://github.com/aluxion)
-    * My profile at Aluxion: [rmagdiel](https://github.com/rmagdiel)
+  * [Aluxion](https://github.com/aluxion)
+  * My profile at Aluxion: [rmagdiel](https://github.com/rmagdiel)
 
 ---
 
